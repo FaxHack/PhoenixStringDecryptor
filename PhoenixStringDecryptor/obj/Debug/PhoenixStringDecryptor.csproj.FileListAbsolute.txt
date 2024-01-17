@@ -1,0 +1,10 @@
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\bin\Debug\PhoenixStringDecryptor.exe.config
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\bin\Debug\PhoenixStringDecryptor.exe
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\bin\Debug\PhoenixStringDecryptor.pdb
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\bin\Debug\dnlib.dll
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\bin\Debug\dnlib.xml
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\obj\Debug\PhoenixStringDecryptor.csproj.AssemblyReference.cache
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\obj\Debug\PhoenixStringDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\obj\Debug\PhoenixStringDecryptor.csproj.CopyComplete
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\obj\Debug\PhoenixStringDecryptor.exe
+C:\Users\ReverseLabs\source\repos\StringDecryptorBlTools\StringDecryptorBlTools\obj\Debug\PhoenixStringDecryptor.pdb
